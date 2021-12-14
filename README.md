@@ -1,4 +1,6 @@
-[職務経歴書](https://github.com/KrainNeun/JobCareer)
+チキン南蛮帝国出身でAndroid/iOSアプリエンジニアやっています。 
+
+→ [職務経歴書](https://github.com/KrainNeun/JobCareer)
 
 # GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrainNeun&count_private=true&show_icons=true&theme=dracula)
